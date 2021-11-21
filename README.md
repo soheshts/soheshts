@@ -31,4 +31,4 @@
 <br>
 
 <p>I love everything about FOSS and GNU/Linux</p>
-<p> Switching distros used to be my hobby but now settled on <img alt="Fedora" src="https://img.shields.io/badge/-Fedora 35-46a2f1?style=flat-square&logo=fedora&logoColor=white" /></p>
+<p> Switching distros used to be my hobby but now settled on <b>Fedora</b></p>
