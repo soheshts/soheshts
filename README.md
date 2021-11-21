@@ -4,9 +4,11 @@
 <a href="https://twitter.com/soheshts">
   <img align="left" alt="Sohesh TS | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<p>
 <a href="https://www.linkedin.com/in/soheshts/">
   <img align="left" alt="Sohesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+  </p>
 <br>
 
 
