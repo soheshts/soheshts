@@ -10,7 +10,7 @@
 <br>
 
 
-<p> Welcome to my page. My name is Sohesh TS and I am a from Kerala, India.</p>
+<p> Welcome to my page. My name is Sohesh TS and I am from Kerala, India.</p>
 
 <h3>Things I code with</h3>
 <p>
